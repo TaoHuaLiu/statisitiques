@@ -1,0 +1,7 @@
+# Exclude everything by default
+*
+
+# But not these files/folders (whitelist)
+!.gitignore
+!tp3.ipynb
+!stat-functions.r
