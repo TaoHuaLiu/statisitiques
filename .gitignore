@@ -4,4 +4,5 @@
 # But not these files/folders (whitelist)
 !.gitignore
 !tp3.ipynb
+!ds-fise.ipynb
 !stat-functions.r
